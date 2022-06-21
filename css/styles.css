@@ -4,7 +4,7 @@ body {
 }
 
 .box {
-  height: 625px;
+  height: 600px;
   width: 350px;
   margin: 0 auto;
   border-radius: 15px;
@@ -105,10 +105,10 @@ p {
 
 .line {
   border: none;
-  height: 1px;
-  color: hsl(215, 50%, 70%);
-  background-color: hsl(215, 51%, 70%);
+  height: 2px;
+  background-color: hsl(215, 51%, 70%, .25);
   margin: 5px 20px 5px 20px;
+  width: 88%;
 }
 
 .avatar {
